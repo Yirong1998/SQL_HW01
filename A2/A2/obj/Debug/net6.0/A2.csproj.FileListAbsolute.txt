@@ -1,0 +1,15 @@
+C:\Users\zhito\source\repos\A2\A2\bin\Debug\net6.0\A2.exe
+C:\Users\zhito\source\repos\A2\A2\bin\Debug\net6.0\A2.deps.json
+C:\Users\zhito\source\repos\A2\A2\bin\Debug\net6.0\A2.runtimeconfig.json
+C:\Users\zhito\source\repos\A2\A2\bin\Debug\net6.0\A2.dll
+C:\Users\zhito\source\repos\A2\A2\bin\Debug\net6.0\A2.pdb
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.csproj.AssemblyReference.cache
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.AssemblyInfoInputs.cache
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.AssemblyInfo.cs
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.csproj.CoreCompileInputs.cache
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.dll
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\refint\A2.dll
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.pdb
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\A2.genruntimeconfig.cache
+C:\Users\zhito\source\repos\A2\A2\obj\Debug\net6.0\ref\A2.dll
